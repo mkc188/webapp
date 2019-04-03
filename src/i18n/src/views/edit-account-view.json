@@ -1,0 +1,52 @@
+[
+  {
+    "id": "label_your_name",
+    "description": "Label for full name editing",
+    "defaultMessage": "Your name"
+  },
+  {
+    "id": "label_password",
+    "description": "Label for password editing",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "password_unchanged_prompt",
+    "description": "Message in editor while password is unchanged",
+    "defaultMessage": "Unchanged"
+  },
+  {
+    "id": "label_user_id",
+    "description": "Label for user address (ID)",
+    "defaultMessage": "Address:"
+  },
+  {
+    "id": "label_default_access_mode",
+    "description": "Label for default access mode",
+    "defaultMessage": "Default access mode:"
+  },
+  {
+    "id": "label_message_sound",
+    "description": "Label for message sounds toggle",
+    "defaultMessage": "Message sound:"
+  },
+  {
+    "id": "label_push_notifications",
+    "description": "Label for push notifications switch",
+    "defaultMessage": "Notification alerts:"
+  },
+  {
+    "id": "label_push_notifications_disabled",
+    "description": "Label for push notifications switch (disabled)",
+    "defaultMessage": "Notification alerts (requires HTTPS):"
+  },
+  {
+    "id": "title_tag_manager",
+    "description": "Section title for TagManager",
+    "defaultMessage": "Tags (user discovery)"
+  },
+  {
+    "id": "button_logout",
+    "description": "Button [Logout]",
+    "defaultMessage": "Logout"
+  }
+]
